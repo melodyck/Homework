@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4338504a-1885-417b-a86a-1c80c052663c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/emp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/emp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/emp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/emp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/emp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/server-config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/emp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/emp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/emp.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ezXYIj4y6rLqs6KzKjwycNtUzc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4338504a-1885-417b-a86a-1c80c052663c" name="Default Changelist" comment="" />
+      <created>1595325440806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595325440806</updated>
+      <workItem from="1595325443091" duration="1363000" />
+      <workItem from="1595327102497" duration="769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1595327848728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595327848728" />
+    <state x="561" y="113" key="RollbackChangesDialog" timestamp="1595327166148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="113" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595327166148" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1595327523190">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595327523190" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595327420047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595327420047" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595327350169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1595327350169" />
+    <state x="465" y="199" key="git4idea.merge.GitPullDialog" timestamp="1595327379867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1595327379867" />
+  </component>
+</project>
