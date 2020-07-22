@@ -17,6 +17,14 @@ public class Test01 {
 		String str = "HelloWorld";
 		test1(str);
 		//以下自行调用test2,test3...等方法。
+		test2(str);
+		test3(str);
+		test4(str);
+		test5(str);
+		test6(str);
+		test7(str);
+		test8(str);
+		test9(str);
 		System.out.println("dd");
 		System.out.println(04);
 	}
@@ -30,6 +38,41 @@ public class Test01 {
 	 * @param str
 	 */
 	public static void test1(String str){
-		
+		System.out.println(str.length());
 	}
+
+	public static void test2(String str){
+		for(int i = 0; i < str.length(); i++){
+			if(str.charAt(i) == 'o'){
+				System.out.println(i);
+			}
+		}
+
+	}
+
+	public static void test3(String str){
+		System.out.println(str.indexOf('o', 5));
+	}
+
+	public static void test4(String str){
+		System.out.println(str.substring(0, 5));
+	}
+	public static void test5(String str){
+		System.out.println(str.substring(5));
+	}
+	public static void test6(String str){
+		System.out.println(str.substring(0, 5).trim());
+	}
+	public static void test7(String str){
+		System.out.println(str.charAt(5));
+	}
+	public static void test8(String str){
+		System.out.println("是否以h开头:" + str.startsWith("h"));
+		System.out.println("是否以ld结尾:" + str.endsWith("ld"));
+	}
+	public static void test9(String str){
+		System.out.println(str.toUpperCase());
+		System.out.println(str.toLowerCase());
+	}
+
 }

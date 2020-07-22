@@ -1,4 +1,8 @@
 package day01;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
 /**
  * 要求用户输入一个计算表达式，可以使用加减乘除。
  * 只处理一次运算的，不要有连续加减乘除的表达式,且不做小数计算。(例:1+2+3)
@@ -10,7 +14,42 @@ package day01;
  */
 public class Test06 {
 	public static void main(String[] args) {
-		
+		Scanner console = new Scanner(System.in);
+		System.out.println("请输入计算表达式(例如1+2):");
+		String str = console.nextLine();
+		String[] str1 = new String[100];
+		int result = 0;
+		if(str.indexOf('+') > -1){
+			str1 = str.split("\\D+");//split方法的参数为分隔符的正则表达式 \D+
+			for(int i = 0; i < str1.length; i++){
+				result += parseInt(str1[i]);
+			}
+			System.out.println(str + "=" + result);
+		}
+		else if(str.indexOf('-') > -1){
+			str1 = str.split("\\D+");
+			result = parseInt(str1[0]);
+			for(int i = 1; i < str1.length; i++){
+				result -= parseInt(str1[i]);
+			}
+			System.out.println(str + "=" + result);
+		}
+		else if(str.indexOf('*') > -1){
+			str1 = str.split("\\D+");
+			result = 1;
+			for(int i = 0; i < str1.length; i++){
+				result *= parseInt(str1[i]);
+			}
+			System.out.println(str + "=" + result);
+		}
+		else if(str.indexOf('/') > -1){
+			str1 = str.split("\\D+");
+			result = parseInt(str1[0]);
+			for(int i = 1; i < str1.length; i++){
+				result /= parseInt(str1[i]);
+			}
+			System.out.println(str + "=" + result);
+		}
 	}
 	public static int parseInt(String str){
 		// 最后要生成的数字

@@ -12,5 +12,14 @@ public class Test02 {
 		System.out.println(84);
 		System.out.println(44);
 		System.out.println(9);
+		StringBuilder stringBuilder = new StringBuilder("大家好!");
+		stringBuilder.append("我是程序员!");
+		System.out.println(stringBuilder);
+		stringBuilder.insert(6, "优秀的");
+		System.out.println(stringBuilder);
+		stringBuilder.replace(6, 9, "牛牛的");
+		System.out.println(stringBuilder);
+		stringBuilder.delete(0, 4);
+		System.out.println(stringBuilder);
 	}
 }
