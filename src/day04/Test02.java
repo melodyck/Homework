@@ -1,4 +1,9 @@
 package day04;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Iterator;
+
 /**
  * 创建一个集合，存放元素"1","$","2","$","3","$","4"
  *   使用迭代器遍历集合，并在过程中删除所有的"$"，
@@ -7,5 +12,27 @@ package day04;
  *
  */
 public class Test02 {
-
+    public static void main(String[] args) {
+        Collection<String> col = new ArrayList<>();
+        col.add("1");
+        col.add("$");
+        col.add("2");
+        col.add("$");
+        col.add("3");
+        col.add("$");
+        col.add("4");
+        Iterator<String> it = col.iterator();
+        while (it.hasNext()){
+            String s = it.next();
+            System.out.println(s);
+            if(s == "$"){
+                it.remove();
+            }
+        }
+        System.out.println();
+        for (String s:col
+             ) {
+            System.out.println(s);
+        }
+    }
 }
