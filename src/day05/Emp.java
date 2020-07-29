@@ -1,5 +1,6 @@
 package day05;
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Objects;
 
@@ -27,6 +28,7 @@ public class Emp implements Comparable<Emp>{
     private String gender;
     private int salary;
     private Date hiredate;
+    private SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd");
 
     public Emp(String name, int age, String gender, int salary, Date hiredate) {
         this.name = name;
@@ -42,7 +44,7 @@ public class Emp implements Comparable<Emp>{
                 ",年龄:" + age +
                 ",性别:'" + gender + '\'' +
                 ",薪资:" + salary +
-                ",入职日期:" + hiredate;
+                ",入职日期:" + format.format(hiredate);
     }
 
     @Override
