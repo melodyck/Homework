@@ -6,23 +6,25 @@ package day09;
  */
 public class Test01 {
     public static void main(String[] args) {
-        Thread t1 = new Thread(){
-            @Override
-            public void run() {
-                for (int i = 0; i < 1000; i++) {
-                    System.out.println("你好");
-                }
-            }
-        };
-        Thread t2 = new Thread(){
-            @Override
-            public void run() {
-                for (int i = 0; i < 1000; i++) {
-                    System.out.println("再见");
-                }
-            }
-        };
+        MyThread1 t1 = new MyThread1();
+        MyThread2 t2 = new MyThread2();
         t1.start();
         t2.start();
+    }
+    private static class MyThread1 extends Thread{
+        @Override
+        public void run() {
+            for (int i = 0; i < 1000; i++) {
+                System.out.println("你好");
+            }
+        }
+    }
+    private static class MyThread2 extends Thread{
+        @Override
+        public void run() {
+            for (int i = 0; i < 1000; i++) {
+                System.out.println("再见");
+            }
+        }
     }
 }
