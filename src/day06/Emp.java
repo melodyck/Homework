@@ -38,7 +38,7 @@ public class Emp{
 
     @Override
     public String toString() {
-        return  name + "," + age + ",'" + gender + "," + salary + "," + format.format(hiredate);
+        return  name + "," + age + "," + gender + "," + salary + "," + format.format(hiredate);
     }
 
     @Override

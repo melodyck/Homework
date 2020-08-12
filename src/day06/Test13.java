@@ -1,8 +1,16 @@
 package day06;
 
+import org.w3c.dom.ls.LSOutput;
+
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
+import java.io.RandomAccessFile;
 import java.net.URISyntaxException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Date;
 
 /**
  * 将emp.dat文件中所有员工解析出来，并创建为若干Emp实例存入一个
@@ -22,9 +30,48 @@ import java.net.URISyntaxException;
  *
  */
 public class Test13 {
-	public static void main(String[] args) throws URISyntaxException, IOException {
+	public static void main(String[] args) throws URISyntaxException, IOException, ParseException {
 		//使用类加载器加载当前包中的emp.dat文件
 		File file = new File(Test13.class.getClassLoader().getResource("day06/emp.dat").toURI());
-		
+		System.out.println(file.getAbsolutePath());
+		RandomAccessFile raf = new RandomAccessFile(file, "r");
+		byte[] name = new byte[32];
+		byte[] gender = new byte[10];
+		byte[] hiredate = new byte[30];
+		ArrayList<Emp> emps = new ArrayList<>();
+		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+		String names = new String(name);
+		int age = 0;
+		String genders = null;
+		int salary = 0;
+		Date hiredates = null;
+		while (raf.read(name) == name.length){
+			for (int i = 0; i < 5; i++) {
+				switch (i){
+					case 0:
+						names = new String(name);
+						break;
+					case 1:
+						age = raf.readInt();
+						break;
+					case 2:
+						raf.read(gender);
+						genders = new String(gender);
+						break;
+					case 3:
+						salary = raf.readInt();
+						break;
+					case 4:
+						raf.read(hiredate);
+						hiredates = dateFormat.parse(new String(hiredate));
+						break;
+					default:
+						break;
+				}
+			}
+			Emp emp = new Emp(names, age, genders, salary, hiredates);
+			emps.add(emp);
+		}
+		System.out.println(emps);
 	}
 }

@@ -17,5 +17,5 @@ package day07;
  *
  */
 public class Emp {
-
+    private String name;
 }

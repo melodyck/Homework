@@ -10,38 +10,92 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4338504a-1885-417b-a86a-1c80c052663c" name="Default Changelist" comment="day5 9">
+    <list default="true" id="4338504a-1885-417b-a86a-1c80c052663c" name="Default Changelist" comment="upload">
+      <change afterPath="$PROJECT_DIR$/src/correction/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction/intersectRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/raf.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/test_copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/text_copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/张三.emp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/李四.emp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/王五.emp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Emp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Emp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07/Emp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ezXYIj4y6rLqs6KzKjwycNtUzc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Test04 (1)">
-    <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09.Test01" />
+  <component name="RunManager" selected="Application.intersectRead">
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.Test10" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09.*" />
+          <option name="PATTERN" value="day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09.Test02" />
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.Test11" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09.*" />
+          <option name="PATTERN" value="day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09.Test04" />
+    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.Test12" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09.*" />
+          <option name="PATTERN" value="day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.Test04" />
+    <configuration name="Test13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.Test13" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.*" />
+          <option name="PATTERN" value="day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.Test05" />
+    <configuration name="intersectRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="correction.intersectRead" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.*" />
+          <option name="PATTERN" value="correction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test04 (1)" />
-        <item itemvalue="Application.Test02" />
-        <item itemvalue="Application.Test01 (1)" />
-        <item itemvalue="Application.Test05" />
-        <item itemvalue="Application.Test04" />
+        <item itemvalue="Application.intersectRead" />
+        <item itemvalue="Application.Test13" />
+        <item itemvalue="Application.Test12" />
+        <item itemvalue="Application.Test11" />
+        <item itemvalue="Application.Test10" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +186,18 @@
       <workItem from="1595811455578" duration="7789000" />
       <workItem from="1595897619288" duration="8369000" />
       <workItem from="1595984659150" duration="8424000" />
-      <workItem from="1596070675050" duration="5820000" />
+      <workItem from="1596070675050" duration="7168000" />
+      <workItem from="1596157202678" duration="7063000" />
+      <workItem from="1596243021788" duration="11995000" />
+      <workItem from="1596272179435" duration="1195000" />
+      <workItem from="1596415836887" duration="7006000" />
+      <workItem from="1596500790986" duration="3197000" />
+      <workItem from="1596588926519" duration="1903000" />
+      <workItem from="1596674542647" duration="1729000" />
+      <workItem from="1596760736875" duration="1932000" />
+      <workItem from="1597021011930" duration="4679000" />
+      <workItem from="1597145816691" duration="4798000" />
+      <workItem from="1597194631980" duration="2818000" />
     </task>
     <task id="LOCAL-00001" summary="homework">
       <created>1595327963595</created>
@@ -176,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596072960788</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="upload">
+      <created>1596099026593</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596099026593</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,42 +267,48 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="homework" />
     <MESSAGE value="day1" />
     <MESSAGE value="day2" />
     <MESSAGE value="day3~4" />
     <MESSAGE value="day5 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="day5 9" />
+    <MESSAGE value="upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="509" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595662786736">
+    <state x="651" y="274" key="#Notifications" timestamp="1596264126170">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="509" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1595662786736" />
+    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1596264126170" />
+    <state x="509" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596267299003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="509" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596267299003" />
     <state x="932" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1596072340670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="932" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596072340670" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1596074646330">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1596760882848">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596074646330" />
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1596072824003">
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596760882848" />
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1597150985747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596072824003" />
-    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1596072824002">
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597150985747" />
+    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1597150985747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596072824002" />
-    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1596072824002">
+    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597150985747" />
+    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1597150985746">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596072824002" />
-    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1596072824002">
+    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597150985746" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1597150985747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596072824002" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597150985747" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1595509308642">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -251,14 +329,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="113" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595327166148" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1595327523190">
+    <state x="270" y="56" key="SettingsEditor" timestamp="1596675609582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595327523190" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596027687049">
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596675609582" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596099047741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596027687049" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596099047741" />
+    <state x="485" y="303" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596179968919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="303" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1596179968919" />
     <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595327350169">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -271,6 +353,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595897640776" />
+    <state x="491" y="323" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597146194884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="323" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1597146194884" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -279,6 +365,14 @@
           <url>file://$PROJECT_DIR$/src/day02/Test01.java</url>
           <line>20</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day06/Test10.java</url>
+          <line>23</line>
+          <properties class="day06.Test10" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
